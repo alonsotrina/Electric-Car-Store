@@ -250,6 +250,11 @@ footer h4{
         min-height: calc(100vh - 95px);
     }
 
+    .navbar .navbar-logo {
+         width: 100%;
+         justify-content: center;
+    }
+
     .nav-enlaces {
         display: block;
         margin-top: 2rem;
